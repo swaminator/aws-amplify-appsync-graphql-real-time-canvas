@@ -16,7 +16,7 @@ type Canvas @model {
 
 > To deploy this application, you must have the latest version of the Amplify CLI installed & configured. To learn how to do this, check out the documentation [here](https://aws-amplify.github.io/).
 
-1. Clone the repo & change into the directory
+1. Clone the **repo** & change into the directory
 
 ```sh
 git clone https://github.com/dabit3/appsync-graphql-real-time-canvas.git
